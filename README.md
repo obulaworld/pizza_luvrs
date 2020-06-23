@@ -19,4 +19,3 @@ Found one? Please let me know by opening an [issue](https://github.com/ryanmurak
 All Images copyright Ryan Lewis
 
 All Code under MIT license
-
